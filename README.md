@@ -1,5 +1,5 @@
 # About Dataset
-This dataset contains data from the top-ranked 250 Korean Dramas as per the MyDramaList website. The data has been collected and uploaded in the form of a CSV file and can be used to work on various Data Science Projects.
+This dataset contains data from the top-ranked 250 Korean Dramas as per the MyDramaList website. The data has been collected and uploaded in the form of a CSV file and can be used to work on various Data Science Projects. 
 
 The CSV file has 17 columns and 251 rows containing mostly textual data.
 
