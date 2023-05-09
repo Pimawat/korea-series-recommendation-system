@@ -8,4 +8,5 @@ Most of the data were collected from the MyDramaList website (https://mydramalis
 I was working on a Content-based Recommender System for Korean Dramas and I needed data to work with. The datasets available on Kaggle had up to only 100 k-drama titles. Not only that, but quite a few of the features deemed essential were also missing; Synopsis, Tags, Director's name, Cast names, Production Companies' names, and such data weren't available with the pre-existing datasets.
  
   
-                                  
+                                    
+ 
